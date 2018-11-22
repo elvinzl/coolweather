@@ -6,4 +6,21 @@
   <component name="ProjectType">
     <option name="id" value="Android" />
   </component>
+  <component name="RemoteRepositoriesConfiguration">
+    <remote-repository>
+      <option name="id" value="50aeef0e-3fb7-4d7f-bcdd-99d1f07fa9f9" />
+      <option name="name" value="50aeef0e-3fb7-4d7f-bcdd-99d1f07fa9f9" />
+      <option name="url" value="https://maven.aliyun.com/nexus/content/groups/public/" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="5f6a3e65-d9ac-4ba4-a032-5688ea46f760" />
+      <option name="name" value="5f6a3e65-d9ac-4ba4-a032-5688ea46f760" />
+      <option name="url" value="https://repository.jboss.org/nexus/content/repositories/public/" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="25d7d9a9-cba0-4b4a-a0eb-a9e9d41527d8" />
+      <option name="name" value="25d7d9a9-cba0-4b4a-a0eb-a9e9d41527d8" />
+      <option name="url" value="https://repo1.maven.org/maven2" />
+    </remote-repository>
+  </component>
 </project>
